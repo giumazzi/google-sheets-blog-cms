@@ -1,4 +1,4 @@
-# Google Sheets CMS
+# Google Sheets CMS - FORK
 Example of a blog powered by Google Sheets, Google Forms and Google Apps Scripts. New posts are added via a Google Forms interface and stored in a Google Sheets spreadsheet. Google Apps Script is used to create an API to make the content accessible in an easy to use format. The blog is designed as a single page application with pagination and category filtering.
 
 ![Blog screenshot](readme-screenshot.png)
